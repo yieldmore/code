@@ -1,0 +1,314 @@
+[
+    {
+        "account": "amadeusweb",
+        "name": "ivy",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/ivy",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B7f1ce627-b763-42aa-8b73-d318464f6397%7D?ts=c_sharp",
+        "description": "winforms applications published at apps.yieldmore.org",
+        "website": "http:\/\/apps.yieldmore.org"
+    },
+    {
+        "account": "amadeusweb",
+        "name": "yieldmore-legacy",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/yieldmore-legacy",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bebc6c2e0-1fdc-4f5e-a26d-b4f067c5316e%7D?ts=729379",
+        "description": "Amadeus installation on yieldmore.org. Pre 2019 this was in wordpress and carries the wp-biblios plugin (2013)",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "amadeus2",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/amadeus2",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B7e3d9985-4662-4212-b474-0bc8bab077ef%7D?ts=php",
+        "description": "The Open Source web builder running at amadeus2.yieldmore.org",
+        "website": "http:\/\/amadeus.yieldmore.org\/"
+    },
+    {
+        "account": "amadeusweb",
+        "name": "2020",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/2020",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bc706d40e-7fbc-440d-84bb-e3dbbeb585e9%7D?ts=php",
+        "description": "Amadeus running at 2020.yieldmore.org",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "vidzeal",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/vidzeal",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B2fe6ec67-9251-4ade-9a33-e0f63960c532%7D?ts=php",
+        "description": "Amadeus running at vidzeal.com",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "imran.yieldmore.org",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/imran.yieldmore.org",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bfa9766e9-78d3-4538-a521-ac1f67bacee5%7D?ts=php",
+        "description": "Amadeus running at the new imran.yieldmore.org",
+        "website": "https:\/\/imran.yieldmore.org\/"
+    },
+    {
+        "account": "amadeusweb",
+        "name": "samatabooks",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/samatabooks",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B27b412ab-4210-45e1-b8a8-db820a8a3634%7D?ts=default",
+        "description": "",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "gdmvindia",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/gdmvindia",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bce098f8b-f774-41ce-bb3d-836186819a1e%7D?ts=php",
+        "description": "Amadeus running at gdmvindia.com",
+        "website": "https:\/\/ma.yieldmore.org"
+    },
+    {
+        "account": "amadeusweb",
+        "name": "sriaurobindodhama",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/sriaurobindodhama",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B4746c3e6-9a67-458b-98a6-42d1fe5b1fdf%7D?ts=php",
+        "description": "Amadeus running at sriaurobindodhama.org",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "crisisforall",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/crisisforall",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bfb6ed6e1-334b-4bf1-a846-3b12d66b6a77%7D?ts=php",
+        "description": "Amadeus, running at crisesforall.org",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "nuggets",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/nuggets",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B9038779d-5219-47f7-acb0-b370a7745124%7D?ts=c_sharp",
+        "description": "VS Code Plugin which is a mix of\r\n - Bookmark Manager\r\n - Mind Map Software\r\n - TODO List (Abstract Spoon Inspired)\r\n - Inbox \/ Calendar\r\n\r\nMultiple Data Source Workspaces",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "archives.yieldmore.org",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/archives.yieldmore.org",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B49c074e2-14c0-4bf2-a4cd-29ca9d002c2a%7D?ts=php",
+        "description": "The Amadeus install at archives.yieldmore.org begun in Sep 2021 and Archived in Jun 2022",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "weave",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/weave",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bf3907504-284d-4377-b26c-7dce09153105%7D?ts=php",
+        "description": "Amadeus at weave.yieldmore.org",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "amadeus",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/amadeus",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B6cb88a00-148d-493e-b80d-0787a4f69a61%7D?ts=php",
+        "description": "Amadeus v3.5 running at amadeusweb.com",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "creditism-pocs",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/creditism-pocs",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B40944765-b3dd-468a-ad51-a9d4b367392a%7D?ts=3250460",
+        "description": "Amadeus running at: https:\/\/pocs.creditism.org\/\npoc = Proof Of Concept",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "loveforlife",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/loveforlife",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B6827ba2b-42a6-4b2c-a90d-9a9728bf34ee%7D?ts=3153405",
+        "description": "Amadeus running at qa.loveforlife.com.au",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "yieldmore",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/yieldmore",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Be0a3f382-f5b5-4c7a-891a-b09d8ec74fb1%7D?ts=php",
+        "description": "New AMW3.5 site started in June 2022 and running at yieldmore.org",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "ganiandsons-2022",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/ganiandsons-2022",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B6294888e-3bf9-486f-bf37-29931f195288%7D?ts=php",
+        "description": "New ganiandsons.com begun Nov 2022 in AM3.5",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "courses.yieldmore.org",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/courses.yieldmore.org",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bf1ff93d9-2639-474c-a571-ef90ede09758%7D?ts=php",
+        "description": "Amadeus Powering the Collaboratively Written courses.yieldmore.org",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "adrsta",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/adrsta",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B2feec9b6-54ba-4c73-b7f4-e8342ef1875d%7D?ts=php",
+        "description": "Amadeus running at adrsta.org",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "creditism",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/creditism",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Be26ffd98-100b-401f-96ee-db765aa8b444%7D?ts=php",
+        "description": "Amadeus running at cms.creditism.org",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "3d",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/3d",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B85475046-fc2a-4e0d-8105-189d18a6d80a%7D?ts=php",
+        "description": "Amadeus running webxr (aframe.io) at 3d.amadeusweb.com",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "magique",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/magique",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bb45c703b-71f3-424a-97b1-2f2e41602f5b%7D?ts=js",
+        "description": "Magique was architected in 2013 in Winforms as a orm\/uimapper framework with super flexible database that had a customizable schema. This code is in svn but not spun up anywhere yet but should make its way to bitbucket soon.\r\n\r\nThat was after I had spent 10 years in winforms, 3 of which was writing ui mappers, 5 orms, some wpf, a LOT of framework code apart from php - cake, croogo, yii\r\n\r\nToday the tech stack is aurelia.io with ESBuild (not Webpack or Vite) on top of a typescript flavour of amadeus with static html\/md files and fragments, talking to an open source alternative to google cloud like supabase.com",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "komal",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/komal",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B3e451757-d3e6-458d-aaac-a268c2925204%7D?ts=php",
+        "description": "The first \"group of sites\" for komal.law built with reuse in mind",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "sytc",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/sytc",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B6367a0b9-0461-4f21-90c1-a26cbf73a96e%7D?ts=default",
+        "description": "a library for displaying activity in all centres of satyamyogatrust\r\n\r\nhttp:\/\/yieldmore.org\/syc",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "sites",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/sites",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bd52573b3-a337-4e4b-9322-d420bef4e293%7D?ts=php",
+        "description": "yieldmore.org\/sites\/joyland",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "yieldmore-ivy",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/yieldmore-ivy",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B1d8c9bf3-0be8-4ed8-ab27-feaaea713b29%7D?ts=php",
+        "description": "",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "wheel",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/wheel",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Be5fb6b5b-10a3-4025-b686-bbfdce044ef5%7D?ts=php",
+        "description": "Wheel feature running at cselian.com.\r\nSee home.php and data.tsv\r\nLearn how to use this at cselian.com\/wheel",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "taran",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/taran",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bd0bbe846-b2a5-4dca-838e-f9724a79da12%7D?ts=html5",
+        "description": "Learning Repo for Taran at\ntaran.yieldmore.org\n\nto be delightedly learning stuff!",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "joyversity",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/joyversity",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B777ab1a8-7a06-462b-a7e8-4f4bcad170f2%7D?ts=php",
+        "description": "For Yaseva's Joyversity => joy.yieldmore.org",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "smartjoyventure",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/smartjoyventure",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bd580cf8b-a782-4b26-a494-10f2e25852ea%7D?ts=php",
+        "description": "Amadeus 3.5 for Yaseva's smartjoyventure.org",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "wisdom",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/wisdom",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bc6bff6bd-7fad-4abe-b854-d02fc4382327%7D?ts=php",
+        "description": "AmadeusWeb.com running at wisdom.fpc \/ wisdom.ym. CAGF is just its outlet",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "tryagri",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/tryagri",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B4e9858d8-c12b-4e2e-9a07-09cc6d3bb058%7D?ts=php",
+        "description": "Amadeus running at tryagri.com",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "dharti",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/dharti",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bb2d3fa39-2a51-4d24-a327-45088d5a0640%7D?ts=php",
+        "description": "dhartiseva.org",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "ritu",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/ritu",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B9a0f3b69-e4dc-40f0-9f61-0527fe52c7c1%7D?ts=php",
+        "description": "Amadeus site for Ritu at ym",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "joyfulearth",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/joyfulearth",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B7e2a39b5-7434-4862-877a-770f477b10b3%7D?ts=php",
+        "description": "",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "cselian",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/cselian",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B535202cd-5531-4031-ba50-0a2ad6b486a8%7D?ts=php",
+        "description": "imported from cselian.com\/blog since 2008\/09, writing goes to imran.ym",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "naragiri",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/naragiri",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B832b2bf0-8ea0-4858-b76d-24b0f6fba9d8%7D?ts=php",
+        "description": "webxr in amw at preview\/ng",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "ideasforchange",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/ideasforchange",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B7b125ab1-39d4-4847-a08e-185e9b715545%7D?ts=php",
+        "description": "",
+        "website": null
+    }
+]
