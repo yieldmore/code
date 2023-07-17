@@ -129,14 +129,6 @@
     },
     {
         "account": "amadeusweb",
-        "name": "yieldmore",
-        "link": "https:\/\/bitbucket.org\/amadeusweb\/yieldmore",
-        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Be0a3f382-f5b5-4c7a-891a-b09d8ec74fb1%7D?ts=php",
-        "description": "New AMW3.5 site started in June 2022 and running at yieldmore.org",
-        "website": null
-    },
-    {
-        "account": "amadeusweb",
         "name": "ganiandsons-2022",
         "link": "https:\/\/bitbucket.org\/amadeusweb\/ganiandsons-2022",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7B6294888e-3bf9-486f-bf37-29931f195288%7D?ts=php",
@@ -164,7 +156,7 @@
         "name": "creditism",
         "link": "https:\/\/bitbucket.org\/amadeusweb\/creditism",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7Be26ffd98-100b-401f-96ee-db765aa8b444%7D?ts=php",
-        "description": "Amadeus running at cms.creditism.org",
+        "description": "Amadeus running at creditism.org",
         "website": null
     },
     {
@@ -189,6 +181,54 @@
         "link": "https:\/\/bitbucket.org\/amadeusweb\/komal",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7B3e451757-d3e6-458d-aaac-a268c2925204%7D?ts=php",
         "description": "The first \"group of sites\" for komal.law built with reuse in mind",
+        "website": null
+    },
+    {
+        "account": "ianamazi",
+        "name": "motes",
+        "link": "https:\/\/bitbucket.org\/ianamazi\/motes",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B258344f0-9619-4487-a4b8-7eff39b91834%7D?ts=default",
+        "description": "Movie Notes from imdb",
+        "website": ""
+    },
+    {
+        "account": "ianamazi",
+        "name": "sixtyplus",
+        "link": "https:\/\/bitbucket.org\/ianamazi\/sixtyplus",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B04540059-5df0-4026-8f29-148a58e5caaa%7D?ts=php",
+        "description": "A website of information about retired people.",
+        "website": ""
+    },
+    {
+        "account": "ianamazi",
+        "name": "study",
+        "link": "https:\/\/bitbucket.org\/ianamazi\/study",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B59a8943b-1020-4dbc-9180-76448f946418%7D?ts=php",
+        "description": "Class CMS for Schools, demo at study.learn.yieldmore.org",
+        "website": ""
+    },
+    {
+        "account": "ianamazi",
+        "name": "media",
+        "link": "https:\/\/bitbucket.org\/ianamazi\/media",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bbaedcbe9-6e97-42a3-86c1-fb6733938d6e%7D?ts=default",
+        "description": "the lyrics player and library running at http:\/\/media.yieldmore.org\/",
+        "website": ""
+    },
+    {
+        "account": "ianamazi",
+        "name": "vb6",
+        "link": "https:\/\/bitbucket.org\/ianamazi\/vb6",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Ba385c243-e66a-4257-bb0d-083a2bda7602%7D?ts=default",
+        "description": "For VB6 applications developed by Imran between the years 2000 and 2006",
+        "website": ""
+    },
+    {
+        "account": "ianamazi",
+        "name": "iviewer2020",
+        "link": "https:\/\/bitbucket.org\/ianamazi\/iviewer2020",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bd694cc67-0d35-4060-9af7-d3585595b889%7D?ts=default",
+        "description": "flutter.dev version of IViewer for windows and devices",
         "website": null
     },
     {
@@ -221,6 +261,14 @@
         "link": "https:\/\/bitbucket.org\/yieldmore\/wheel",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7Be5fb6b5b-10a3-4025-b686-bbfdce044ef5%7D?ts=php",
         "description": "Wheel feature running at cselian.com.\r\nSee home.php and data.tsv\r\nLearn how to use this at cselian.com\/wheel",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "ideas",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/ideas",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Be0a3f382-f5b5-4c7a-891a-b09d8ec74fb1%7D?ts=php",
+        "description": "New AMW3.5 site started in June 2022 and running at ideas.yieldmore.org",
         "website": null
     },
     {
@@ -309,6 +357,46 @@
         "link": "https:\/\/bitbucket.org\/yieldmore\/ideasforchange",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7B7b125ab1-39d4-4847-a08e-185e9b715545%7D?ts=php",
         "description": "",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "yieldmore",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/yieldmore",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bf59893dd-b749-4c91-83b0-bfd1098b17ef%7D?ts=php",
+        "description": "New YieldMore.org begun in June 2023 with world \/ interactions",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "chalz",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/chalz",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B6b1837cb-aff3-4bbd-9726-4b1cfcb03280%7D?ts=php",
+        "description": "Amadeus 4 subsite of YieldMore repo running at chalz.yieldmore.org",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "peace",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/peace",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bac231a7c-3094-478a-abf1-66fa080101b6%7D?ts=php",
+        "description": "Amadeus 4.0 running at peacemuseum.art as a subsite of yieldmore.org",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "health",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/health",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Be4809583-e8a0-4633-96b8-9d7bfdca4b56%7D?ts=php",
+        "description": "Amadeus 4.0 running at healthinfoindia.com as a subsite of yieldmore.org",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "healers",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/healers",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B76ff9c86-be7e-4e7b-bf78-63b2a86d183f%7D?ts=php",
+        "description": "Amadeus 4 subsite of ym code base for HealersConnect.in",
         "website": null
     }
 ]
