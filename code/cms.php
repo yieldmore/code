@@ -36,7 +36,7 @@ bootstrap([
 	'email' => 'amadeus@yieldmore.org', 'phone' => '+919841223313',
 
 	'folder' => 'content/',
-	'url' => $local ? 'http://localhost/code/' : '//code.amadeusweb.com/',
+	'url' => $local ? 'http://localhost/subdomains/amadeusweb/code/' : 'https://code.amadeusweb.com/',
 	'path' => SITEPATH,
 
 ]);
