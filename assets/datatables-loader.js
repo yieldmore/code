@@ -13,6 +13,7 @@ $(document).ready(function () {
 			"pdfHtml5",
 			"print"
 		],
+
 		initComplete: function (settings, json) {
 			$(".dt-buttons .btn-group").append(
 				'<a id="cv" class="btn btn-primary" href="#">CARD VIEW</a>'
@@ -37,6 +38,27 @@ $(document).ready(function () {
 				}
 				$("#datatable").toggleClass("card");
 			});
-		}
+
+		    // Setup - add a text input to each header cell with header name
+		    $('#datatable th').each( function () {
+		        var title = $(this).text();
+				console.warn(title);
+		        $(this).html( title+'<br><input type="text" placeholder="Search '+title+'" />' );
+		    });
+
+		    const table = this.api();
+			debugger;
+			// Apply the search
+		    table.columns().every( function () {
+		        var that = this;
+		        $( 'input', this.header() ).on( 'keyup change clear', function () {
+		            if ( that.search() !== this.value ) {
+		                that
+		                    .search( this.value )
+		                    .draw();
+		            }
+		        } );
+		    } );
+		},
 	});
 });

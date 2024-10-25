@@ -3,17 +3,17 @@
         "account": "amadeusweb",
         "name": "ivy",
         "link": "https:\/\/bitbucket.org\/amadeusweb\/ivy",
-        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B7f1ce627-b763-42aa-8b73-d318464f6397%7D?ts=c_sharp",
-        "description": "winforms applications published at apps.yieldmore.org",
-        "website": "http:\/\/apps.yieldmore.org"
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B7f1ce627-b763-42aa-8b73-d318464f6397%7D?ts=3649980",
+        "description": "winforms applications from 2006, published at YM Archives.",
+        "website": "https:\/\/archives.yieldmore.org\/iviewer\/"
     },
     {
         "account": "amadeusweb",
         "name": "amadeus2",
         "link": "https:\/\/bitbucket.org\/amadeusweb\/amadeus2",
-        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B7e3d9985-4662-4212-b474-0bc8bab077ef%7D?ts=php",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B7e3d9985-4662-4212-b474-0bc8bab077ef%7D?ts=3649975",
         "description": "The Open Source web builder running at amadeus2.yieldmore.org",
-        "website": "http:\/\/amadeus.yieldmore.org\/"
+        "website": "https:\/\/amadeus2.yieldmore.org\/"
     },
     {
         "account": "amadeusweb",
@@ -33,14 +33,6 @@
     },
     {
         "account": "amadeusweb",
-        "name": "imran.yieldmore.org",
-        "link": "https:\/\/bitbucket.org\/amadeusweb\/imran.yieldmore.org",
-        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bfa9766e9-78d3-4538-a521-ac1f67bacee5%7D?ts=php",
-        "description": "Amadeus running at the new imran.yieldmore.org",
-        "website": "https:\/\/imran.yieldmore.org\/"
-    },
-    {
-        "account": "amadeusweb",
         "name": "samatabooks",
         "link": "https:\/\/bitbucket.org\/amadeusweb\/samatabooks",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7B27b412ab-4210-45e1-b8a8-db820a8a3634%7D?ts=default",
@@ -51,9 +43,9 @@
         "account": "amadeusweb",
         "name": "gdmvindia",
         "link": "https:\/\/bitbucket.org\/amadeusweb\/gdmvindia",
-        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bce098f8b-f774-41ce-bb3d-836186819a1e%7D?ts=php",
-        "description": "Amadeus running at gdmvindia.com",
-        "website": "https:\/\/ma.yieldmore.org"
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bce098f8b-f774-41ce-bb3d-836186819a1e%7D?ts=3649981",
+        "description": "Amadeus for gdmv (Media)",
+        "website": "https:\/\/gdmvindia.com"
     },
     {
         "account": "amadeusweb",
@@ -75,9 +67,9 @@
         "account": "amadeusweb",
         "name": "amadeus",
         "link": "https:\/\/bitbucket.org\/amadeusweb\/amadeus",
-        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B6cb88a00-148d-493e-b80d-0787a4f69a61%7D?ts=php",
-        "description": "Amadeus v3.5 running at amadeusweb.com",
-        "website": null
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B6cb88a00-148d-493e-b80d-0787a4f69a61%7D?ts=3641490",
+        "description": "Amadeus v5.1 - framework and web",
+        "website": "https:\/\/amadeusweb.com\/"
     },
     {
         "account": "amadeusweb",
@@ -104,6 +96,38 @@
         "website": null
     },
     {
+        "account": "cselian",
+        "name": "e-vend",
+        "link": "https:\/\/bitbucket.org\/cselian\/e-vend",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B9fc7628b-347d-4b8b-bf00-66c03dd9263a%7D?ts=php",
+        "description": "An e-Commerce platform built on Yii that allows B2B and B2C exclusive selling at custom prices.\r\nhttp:\/\/tg.cselian.com\/showcase\/e-vend",
+        "website": ""
+    },
+    {
+        "account": "cselian",
+        "name": "golf",
+        "link": "https:\/\/bitbucket.org\/cselian\/golf",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B07373184-86b1-4d9f-af5a-47d14b8b754a%7D?ts=php",
+        "description": "for keeping scores of golf games for clubs",
+        "website": null
+    },
+    {
+        "account": "cselian",
+        "name": "medico",
+        "link": "https:\/\/bitbucket.org\/cselian\/medico",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B46a668b9-ee68-4074-a8cc-90d5593ba9cc%7D?ts=php",
+        "description": "The Yii Framework Application running at cselian.com\/medico",
+        "website": null
+    },
+    {
+        "account": "cselian",
+        "name": "xow",
+        "link": "https:\/\/bitbucket.org\/cselian\/xow",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B85a15f99-a3e1-41ff-b6e1-959657f19421%7D?ts=default",
+        "description": "Winforms app for Exhibit on Watch - records + time indexes by QR Code detect",
+        "website": null
+    },
+    {
         "account": "ianamazi",
         "name": "wp-cselian",
         "link": "https:\/\/bitbucket.org\/ianamazi\/wp-cselian",
@@ -116,7 +140,7 @@
         "name": "jssw",
         "link": "https:\/\/bitbucket.org\/ianamazi\/jssw",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7B4b042d6c-f225-405b-89bf-f3c76aaaecee%7D?ts=php",
-        "description": "journal of school social work built in 2014",
+        "description": "journal of school social work built in 2014 - not hosted now, but planned to be a part of YM\/Periodicals",
         "website": null
     },
     {
@@ -132,7 +156,7 @@
         "name": "motes",
         "link": "https:\/\/bitbucket.org\/ianamazi\/motes",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7B258344f0-9619-4487-a4b8-7eff39b91834%7D?ts=default",
-        "description": "Movie Notes from imdb in #YiiFramework",
+        "description": "Movie Notes from imdb in #YiiFramework - discontinued in 2015",
         "website": null
     },
     {
@@ -140,31 +164,31 @@
         "name": "sixtyplus",
         "link": "https:\/\/bitbucket.org\/ianamazi\/sixtyplus",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7B04540059-5df0-4026-8f29-148a58e5caaa%7D?ts=php",
-        "description": "A website of information about retired people.",
-        "website": ""
+        "description": "A website of information about retired people - discontinued",
+        "website": null
     },
     {
         "account": "ianamazi",
         "name": "study",
         "link": "https:\/\/bitbucket.org\/ianamazi\/study",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7B59a8943b-1020-4dbc-9180-76448f946418%7D?ts=php",
-        "description": "Class CMS for Schools, demo at study.learn.yieldmore.org",
-        "website": ""
+        "description": "Class CMS for Schools in #YiiFramework from 2015 - discontinued",
+        "website": null
     },
     {
         "account": "ianamazi",
         "name": "directory",
         "link": "https:\/\/bitbucket.org\/ianamazi\/directory",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7B5d383239-cab9-4a9f-9a20-e974ab2700aa%7D?ts=default",
-        "description": "App built in 2017 in YiiFramework with 3 tables",
-        "website": "http:\/\/dir.yieldmore.org"
+        "description": "App built in 2017 in #YiiFramework with 3 tables - discontinued",
+        "website": null
     },
     {
         "account": "ianamazi",
         "name": "tryst",
         "link": "https:\/\/bitbucket.org\/ianamazi\/tryst",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bbd44d5d8-71e2-4812-8440-81b65b28e6ca%7D?ts=php",
-        "description": "The order taking and reporting application powering the Tryst Cafe, built for a friend using YiiFramework in 2017 - didnt go live",
+        "description": "The order taking and reporting application powering the Tryst Cafe, built for a friend using #YiiFramework in 2017 - didnt go live",
         "website": null
     },
     {
@@ -172,23 +196,23 @@
         "name": "media",
         "link": "https:\/\/bitbucket.org\/ianamazi\/media",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bbaedcbe9-6e97-42a3-86c1-fb6733938d6e%7D?ts=default",
-        "description": "the lyrics player and library running at http:\/\/media.yieldmore.org\/",
-        "website": ""
+        "description": "the lyrics player and file based library retired after Amadeus had evolved and the archives site was built.",
+        "website": null
     },
     {
         "account": "ianamazi",
         "name": "vb6",
         "link": "https:\/\/bitbucket.org\/ianamazi\/vb6",
-        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Ba385c243-e66a-4257-bb0d-083a2bda7602%7D?ts=default",
-        "description": "For VB6 applications developed by Imran between the years 2000 and 2006",
-        "website": ""
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Ba385c243-e66a-4257-bb0d-083a2bda7602%7D?ts=3649982",
+        "description": "For IViewer - a VB6 applications developed by Imran in 2000 and now in C#.Net. This code, developed in vb6 until 2006 was lost in a disk corruption in 2019.",
+        "website": "https:\/\/archives.yieldmore.org\/iviewer\/"
     },
     {
         "account": "ianamazi",
         "name": "wheel",
         "link": "https:\/\/bitbucket.org\/ianamazi\/wheel",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7Be5fb6b5b-10a3-4025-b686-bbfdce044ef5%7D?ts=php",
-        "description": "Wheel feature running at cselian.com.\r\nSee home.php and data.tsv\r\nLearn how to use this at cselian.com\/wheel",
+        "description": "Wheel feature that used to run at cselian.com from 2012 to 2019.\nSee home.php and data.tsv\nFor #learners to get a basic understanding of front end \/ php and make it a cselian POC.",
         "website": null
     },
     {
@@ -222,6 +246,14 @@
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7B1d8c9bf3-0be8-4ed8-ab27-feaaea713b29%7D?ts=php",
         "description": "",
         "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "imran",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/imran",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bfa9766e9-78d3-4538-a521-ac1f67bacee5%7D?ts=php",
+        "description": "Amadeus running at the new imran.yieldmore.org",
+        "website": "https:\/\/imran.yieldmore.org\/"
     },
     {
         "account": "yieldmore",
@@ -291,9 +323,9 @@
         "account": "yieldmore",
         "name": "joyfulearth",
         "link": "https:\/\/bitbucket.org\/yieldmore\/joyfulearth",
-        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bf59893dd-b749-4c91-83b0-bfd1098b17ef%7D?ts=php",
-        "description": "New YieldMore.org begun in June 2023 which eventually transitioned to the joyfulearth.org site with section (node) and listings feature.",
-        "website": "https:\/\/pin.yieldmore.org\/"
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bf59893dd-b749-4c91-83b0-bfd1098b17ef%7D?ts=3641492",
+        "description": "New YieldMore.org begun in June 2023 which eventually transitioned to the joyfulearth.org site with section (node) and listings feature - now being merged with joyism and other allies.",
+        "website": "https:\/\/joyfulearth.org\/"
     },
     {
         "account": "yieldmore",
@@ -349,6 +381,70 @@
         "link": "https:\/\/bitbucket.org\/yieldmore\/satyamyogatrust",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bb05dea98-19d0-44b0-b22a-4be7d2a46f09%7D?ts=php",
         "description": "Amadeus 4.2 running at satyamyogatrust.net",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "ritu",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/ritu",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bd737edc2-60b2-4492-9b54-ee8f131cd726%7D?ts=markdown",
+        "description": "Author content at yieldmore.org\/ritu\/",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "anbagam",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/anbagam",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B43749271-d987-435e-a895-1d6980a2ec1d%7D?ts=php",
+        "description": "Amadeus 5 with charity theme running at anbagam.org",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "globalconcerns",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/globalconcerns",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bacf96a37-5e0a-42c0-9371-26c0e632b25e%7D?ts=3648392",
+        "description": "Amadeus for globalconcernsindia.org",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "mhworld",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/mhworld",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B6235ca6a-4c9d-4842-8895-445c2a2802b4%7D?ts=php",
+        "description": "Amadeus for a mental health wiki",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "ravee",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/ravee",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B0a78ac9e-d209-4e94-b056-e238d43ec1ad%7D?ts=php",
+        "description": "An author site for V Raveendar, writer, philanthropist",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "avexservices",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/avexservices",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bf9973db3-c8a8-4b95-833d-c9fba78c8ad5%7D?ts=php",
+        "description": "",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "rishistunebox",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/rishistunebox",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Ba2c0f450-6805-4c4c-a039-02b2934675c2%7D?ts=php",
+        "description": "Amadeus Web Node running in biz.joyfulearth.org",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "hemanth",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/hemanth",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B650adaec-b83d-472d-a1e2-1330536d6eb8%7D?ts=php",
+        "description": "Migration from wordpress to ungalanban.com",
         "website": null
     }
 ]
