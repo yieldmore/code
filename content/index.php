@@ -10,6 +10,7 @@ function item_r($col, $item) { echo $item[$col]; }
 			<th>Name</th>
 			<th>Description</th>
 			<th>Website</th>
+			<th>Project</th>
 			<th>Account</th>
 		</tr>
 	</thead>
@@ -19,6 +20,7 @@ function item_r($col, $item) { echo $item[$col]; }
 			<td><a href="<?php item_r('link', $item); ?>" target="_blank"><img src="<?php item_r('icon', $item); ?>" height="60" /> <?php item_r('name', $item); ?></a></td>
 			<td><?php item_r('description', $item); ?></td>
 			<td><a href="<?php item_r('website', $item); ?>" target="_blank"><?php item_r('website', $item); ?></a></td>
+			<td><?php item_r('project', $item); ?></td>
 			<td><?php item_r('account', $item); ?></td>
 		</tr>
 <?php } ?>

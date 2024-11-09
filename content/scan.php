@@ -16,10 +16,10 @@ foreach ($sources as $name) {
 	foreach ($json['values'] as $ix => $item) {
 		$op[] = [
 			'account' => $name,
-			'name' => $item['full_name'],
+			'name' => $item['name'],
+			'project' => $item['project']['name'],
 			'link' => $item['links']['html']['href'],
 			'icon' => $item['links']['avatar']['href'],
-			'name' => $item['name'],
 			'description' => $item['description'],
 			'website' => $item['website'],
 		];
