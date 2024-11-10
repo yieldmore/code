@@ -8,7 +8,8 @@ bootstrap([
 	'safeName' => 'amadeus-code',
 
 	'theme' => 'biz-land',
-	'version' => [ 'id' => '2.0.2', 'date' => '10 Nov 2024' ],
+	'version' => [ 'id' => '2.0.3', 'date' => '10 Nov 2024' ],
+	'image-in-logo' => '-logo.png',
 
 	'styles' => [
 		'styles',

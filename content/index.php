@@ -3,6 +3,11 @@ These repo details are loaded from bitbucket api scanned into a single repos.jso
 <?php
 $repos = json_to_array(SITEPATH . '/assets/repos.json');
 function item_r($col, $item) { echo $item[$col]; }
+
+sectionId('filters');
+renderMarkdown('%quick-filters-snippet%', ['strip-paragraph-tag' => true]);
+section('end');
+
 ?>
 <table id="datatable" class="table table-striped table-bordered" cellspacing="0" width="100%">
 	<thead>

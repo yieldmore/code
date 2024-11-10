@@ -1,38 +1,42 @@
-#Domain	DocumentRoot	Comments
-3d.amadeusweb.com	amadeusweb/3d	TEST
+#Domain	DocumentRoot	Comments	
+~ Core
 amadeusweb.com	amadeus	
-anbagam.org	symphony/anbagam	
-anbagam.yieldmore.org	symphony/anbagam	
-archives.yieldmore.org	yieldmore/archives	
-avex.amadeusweb.com	businesses/avex/preview	
-awakentolife.org	clients/2022/awakentolife-live	
-bhavik.yieldmore.org	yieldmore	
-biz.joyfulearth.org	joyfulearth/biz	
-cascadefls.org	clients/2022/cascade-live	
-code.amadeusweb.com	amadeusweb/code	
-cselian.com	cselian	
-families.awakentolife.org	businesses/families	
-gani.co.in	clients/imran/gani	
-ganiandsons.com	clients/imran/ganiandsons	
-gdmvindia.com	businesses/gdmvindia	
-globalconcerns.yieldmore.org	symphony/globalconcerns	
-healthinfoindia.com	businesses/healthinfoindia	
-ideas.yieldmore.org	yieldmore/ideas	
-imran.yieldmore.org	yieldmore/imran	
-intelli-tick.com	clients/2024/intelli-tick-live	
-iscindia.net	clients/older/iscindia	
-josara.yieldmore.org	people/sarath	
-joyfulearth.org	yieldmore/joyfulearth	
-komal.law	_empty	
-komallaw.com	_empty	
-komallaw.in	_empty	
-legacy.yieldmore.org	yieldmore/legacy	
-mhworld.yieldmore.org	yieldmore/mhworld	
-pages.yieldmore.org	_empty	
-peace.yieldmore.org	yieldmore/peace	
-qa.intelli-tick.com	clients/2024/intelli-tick	
-ravee.yieldmore.org	people/ravee	
-roottrust.org	symphony/roottrust	
-showcase.amadeusweb.com	showcase	
-yieldmore.org	yieldmore/www	
+code.amadeusweb.com	amadeusweb/code	--thi site
 
+~ Alliances (amadeus network)
+work.amadeusweb.com	alliances/work	
+biz.amadeusweb.com	alliances/biz	
+elders.amadeusweb.com	alliances/elders	
+yieldmore.org	alliances/knowledge	
+network.yieldmore.org	alliances/network	
+
+~ YM
+ideas2.yieldmore.org	yieldmore/ideas2	
+ideas.yieldmore.org	yieldmore/ideas	
+archives.yieldmore.org	yieldmore/archives	
+legacy.yieldmore.org	yieldmore/legacy	
+
+~ Clients
+avex.amadeusweb.com	businesses/avex/preview	
+
+~ Arya (symphony)
+anbagam.org	symphony/anbagam	
+joyfulearth.org	symphony/joyfulearth	
+globalconcerns.yieldmore.org	symphony/globalconcerns	
+mhworld.yieldmore.org	yieldmore/mhworld	
+
+~ People
+imran.yieldmore.org	people/imran	
+josara.yieldmore.org	people/sarath	
+ravee.yieldmore.org	people/ravee	
+
+~ Older
+cselian.com	cselian	
+3d.amadeusweb.com	amadeusweb/3d	TEST
+gani.co.in	businesses/gani	
+ganiandsons.com	businesses/ganiandsons	
+
+~ Archived
+gdmvindia.com	businesses/gdmvindia	
+healthinfoindia.com	businesses/healthinfoindia	
+iscindia.net	businesses/iscindia	

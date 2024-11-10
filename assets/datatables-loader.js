@@ -1,6 +1,16 @@
 //FROM: https://codepen.io/RedJokingInn/pen/bGoppqP
 $(document).ready(function () {
 	if ($("#datatable").length == 0) return;
+
+	$('#filters li').click(function() {
+		const el = $(this);
+		const filterType = el.parent().prev('strong')
+			.text().includes('Account')
+				? 'account' : 'project';
+		$('.filter-' + filterType).val(el.text()).change();
+		$("#datatable")[0].scrollIntoView();
+	});
+
 	$("#datatable").DataTable({
 		dom: '<"dt-buttons"Bf><"clear">lirtp',
 		paging: true,
@@ -43,11 +53,10 @@ $(document).ready(function () {
 		    $('#datatable th').each( function () {
 		        var title = $(this).text();
 				console.warn(title);
-		        $(this).html( title+'<br><input type="text" placeholder="Search '+title+'" />' );
+		        $(this).html( title+'<br><input class="filter filter-' + title.toLowerCase() + '" type="text" placeholder="Search '+title+'" />' );
 		    });
 
 		    const table = this.api();
-			debugger;
 			// Apply the search
 		    table.columns().every( function () {
 		        var that = this;

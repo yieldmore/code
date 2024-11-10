@@ -1,3 +1,5 @@
+body { cursor: default; }
+
 #content {
 	margin-top: 200px;
 }
@@ -5,3 +7,8 @@
 @media (max-width: 991px) {
 	#content { margin-top: 80px; }
 }
+
+#filters strong { font-size: 13pt; }
+#filters ul, #filters li { display: inline-block; }
+#filters li { background-color: #FFD197; padding: 3px; cursor: hand; }
+
