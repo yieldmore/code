@@ -37,6 +37,15 @@
     },
     {
         "account": "amadeusweb",
+        "name": "fourtune",
+        "project": "Active",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/fourtune",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B174df71f-7517-4594-8a68-f349a99fb29f%7D?ts=3662696",
+        "description": "Amadeus running at fourtune.net",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
         "name": "amadeus2",
         "project": "Retired",
         "link": "https:\/\/bitbucket.org\/amadeusweb\/amadeus2",
@@ -118,6 +127,15 @@
     },
     {
         "account": "amadeusweb",
+        "name": "2021-wp",
+        "project": "Retired",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/2021-wp",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Ba67a0ee5-38fb-4862-b1f6-c9308f8e117b%7D?ts=php",
+        "description": "wordpress content and plugins, running at 2021-wp.yieldmore.org",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
         "name": "amadeus",
         "project": "Amadeus",
         "link": "https:\/\/bitbucket.org\/amadeusweb\/amadeus",
@@ -177,6 +195,33 @@
         "link": "https:\/\/bitbucket.org\/amadeusweb\/magique",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bb45c703b-71f3-424a-97b1-2f2e41602f5b%7D?ts=js",
         "description": "Futuristic Amadeus like framework with client mvc \/ file based cms to be built in Web Components",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "alliances",
+        "project": "Amadeus",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/alliances",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Bd8f7cc33-a5e5-4b15-87f1-eab7b8218df6%7D?ts=php",
+        "description": "Multisite AmadeusWeb and YieldMore Network for profit and to showcase the works of those served",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "wiseowls",
+        "project": "Amadeus",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/wiseowls",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B2d25e548-360e-44cb-8cc9-d40b6b54ce55%7D?ts=3668017",
+        "description": "Amadeus 5.4 at WiseOwls.life - yes, life!",
+        "website": null
+    },
+    {
+        "account": "amadeusweb",
+        "name": "biz-listings",
+        "project": "Amadeus",
+        "link": "https:\/\/bitbucket.org\/amadeusweb\/biz-listings",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B85e4f74d-346a-48c2-a0f3-de4b0e1fb6e7%7D?ts=php",
+        "description": "amadeusweb.site (biz-listings)",
         "website": null
     },
     {
@@ -595,9 +640,9 @@
     },
     {
         "account": "yieldmore",
-        "name": "www",
+        "name": "ideas2",
         "project": "YieldMore.org",
-        "link": "https:\/\/bitbucket.org\/yieldmore\/www",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/ideas2",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7B7e2a39b5-7434-4862-877a-770f477b10b3%7D?ts=php",
         "description": "All programs of YM - professional face, no longer blog like. Begun Aug 2023 after archiving ideas and making a separate PIN site.",
         "website": "https:\/\/yieldmore.org\/"
@@ -667,9 +712,9 @@
     },
     {
         "account": "yieldmore",
-        "name": "rishistunebox",
+        "name": "rishis-tunebox",
         "project": "Subsites",
-        "link": "https:\/\/bitbucket.org\/yieldmore\/rishistunebox",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/rishis-tunebox",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7Ba2c0f450-6805-4c4c-a039-02b2934675c2%7D?ts=php",
         "description": "Amadeus Web Node (SubSite) running at biz.amdeusweb.com",
         "website": null
@@ -680,7 +725,43 @@
         "project": "People",
         "link": "https:\/\/bitbucket.org\/yieldmore\/sarath",
         "icon": "https:\/\/bytebucket.org\/ravatar\/%7B53fe3728-ff28-48ad-b580-10db1d1086e8%7D?ts=php",
-        "description": "Amadeus 5.2 for Sarath Sir",
+        "description": "Sarath @ AmadeusWeb.site",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "joyfulearth",
+        "project": "Arya Clients",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/joyfulearth",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B79ec2be5-2ea4-4a9b-b46b-091c2989c401%7D?ts=php",
+        "description": "Amadeus 5.3 begun in Nov 2024 after deleting the previous repo",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "ravis-woodcraft",
+        "project": "Subsites",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/ravis-woodcraft",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7Be1ffd906-c0aa-4037-b528-1e6de1724c92%7D?ts=php",
+        "description": "Site at biz.amadeusweb.com",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "vishwas",
+        "project": "Subsites",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/vishwas",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B89518a0c-a995-4d0e-8658-63adba236933%7D?ts=php",
+        "description": "Running on the network (prev was in je)",
+        "website": null
+    },
+    {
+        "account": "yieldmore",
+        "name": "vidya--awaken-to-life",
+        "project": "Subsites",
+        "link": "https:\/\/bitbucket.org\/yieldmore\/vidya-awaken-to-life",
+        "icon": "https:\/\/bytebucket.org\/ravatar\/%7B18633206-f452-4178-8831-db785453c34f%7D?ts=php",
+        "description": "listing at amadeusweb.site",
         "website": null
     }
 ]

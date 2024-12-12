@@ -1,14 +1,15 @@
 #Domain	DocumentRoot	Comments	
 ~ Core
 amadeusweb.com	amadeus	
-code.amadeusweb.com	amadeusweb/code	--thi site
+code.amadeusweb.com	amadeusweb/code	--this site
 
-~ Alliances (amadeus network)
-work.amadeusweb.com	alliances/work	
-biz.amadeusweb.com	alliances/biz	
-elders.amadeusweb.com	alliances/elders	
-yieldmore.org	alliances/knowledge	
-network.yieldmore.org	alliances/network	
+~ Our Sites (amadeus network)
+|work.amadeusweb.com	our-sites/work	
+amadeusweb.site	our-sites/biz-listings	
+wiseowls.life	our-sites/wiseowls	
+joyfulearth.org	our-sites/joyfulearth	
+|peace.yieldmore.org	our-sites/peace	
+yieldmore.org	our-sites/yieldmore	
 
 ~ YM
 ideas2.yieldmore.org	yieldmore/ideas2	
@@ -17,18 +18,16 @@ archives.yieldmore.org	yieldmore/archives
 legacy.yieldmore.org	yieldmore/legacy	
 
 ~ Clients
-avex.amadeusweb.com	businesses/avex/preview	
+avexservices.aero	businesses/avexservices	
 
 ~ Arya (symphony)
 anbagam.org	symphony/anbagam	
-joyfulearth.org	symphony/joyfulearth	
 globalconcerns.yieldmore.org	symphony/globalconcerns	
 mhworld.yieldmore.org	yieldmore/mhworld	
 
 ~ People
 imran.yieldmore.org	people/imran	
-josara.yieldmore.org	people/sarath	
-ravee.yieldmore.org	people/ravee	
+|ravee.yieldmore.org	people/ravee	
 
 ~ Older
 cselian.com	cselian	
@@ -40,3 +39,4 @@ ganiandsons.com	businesses/ganiandsons
 gdmvindia.com	businesses/gdmvindia	
 healthinfoindia.com	businesses/healthinfoindia	
 iscindia.net	businesses/iscindia	
+
